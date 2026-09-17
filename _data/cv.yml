@@ -7,7 +7,11 @@ cv:
   summary: >
     Professor and Head of the Department of Statistics and Actuarial Science at Stellenbosch University. PhD in Mathematical Statistics (2011). NRF C3-rated researcher working on Bayesian statistics, simulation, and clinical trial methodology, with a career background in biostatistics consulting.
 
-  social_networks: []
+  social_networks:
+    - network: LinkedIn
+      username: justin-harvey-746443134
+    - network: ORCID
+      username: 0000-0002-8101-373X
 
   sections:
     Education:
