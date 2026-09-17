@@ -3,5 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: jharvey@sun.ac.za # your email address
 # cv_pdf: /assets/pdf/CV_Justin_Harvey.pdf # uncomment and set this once you've added a CV PDF to assets/pdf/
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: # add your Google Scholar user ID here (the long code in your scholar profile URL) to show a Scholar icon and badge
