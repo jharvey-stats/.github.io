@@ -136,7 +136,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Justin Harvey # blog_name will be displayed in your blog page
-blog_description: Notes on statistics, actuarial science, and data science teaching and research.
+blog_description: Thoughts on anything I find interesting.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
