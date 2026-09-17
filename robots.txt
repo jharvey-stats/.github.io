@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YOUR-USERNAME.github.io/sitemap.xml
+Sitemap: https://jharvey-stats.github.io/sitemap.xml
