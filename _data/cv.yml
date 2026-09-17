@@ -27,7 +27,7 @@ cv:
         start_date: 2007
         end_date: 2008
         highlights:
-          - Awarded cum laude; Dean's Medal for best MCom student
+          - Dean's Medal for best MCom student
 
       - institution: University of the Free State
         location: Bloemfontein, South Africa
@@ -35,8 +35,6 @@ cv:
         studyType: BCom Honours
         start_date: 2006
         end_date: 2007
-        highlights:
-          - Awarded cum laude
 
       - institution: University of the Free State
         location: Bloemfontein, South Africa
@@ -44,20 +42,18 @@ cv:
         studyType: BCom
         start_date: 2000
         end_date: 2003
-        highlights:
-          - Awarded cum laude, with six Royal Institute of Actuaries 100-series subject exemptions
 
     Experience:
       - company: Department of Statistics and Actuarial Science, Stellenbosch University
         position: Head of Department
-        location: Stellenbosch, South Africa
+        location: Stellenbosch, RSA
         start_date: 2023-01-01
         end_date: present
         summary: Financial, operational, strategic, and HR management of a department of 35 academic staff, spanning Statistics and Mathematical Statistics, Actuarial Science, Financial Risk Management, and Data Science programmes.
 
       - company: Department of Statistics and Actuarial Science, Stellenbosch University
         position: Associate Professor
-        location: Stellenbosch, South Africa
+        location: Stellenbosch, RSA
         start_date: 2022-01-01
         end_date: present
         highlights:
@@ -67,12 +63,12 @@ cv:
 
       - company: Department of Statistics and Actuarial Science, Stellenbosch University
         position: Senior Lecturer
-        location: Stellenbosch, South Africa
+        location: Stellenbosch, RSA
         start_date: 2015-01-01
         end_date: 2021-12-31
         highlights:
           - Lectured Mathematical Statistics II, Statistics 224/244, Stochastic Simulation, Actuarial Science 311, and Bayesian Machine Learning
-          - Led Data Science curriculum development (Data Science 241; Bayesian Machine Learning 441)
+          - Contributed to Data Science curriculum development (Data Science 241; Bayesian Machine Learning 441)
 
       - company: Centre for Statistical Consultation, Stellenbosch University
         position: Head Statistician
@@ -95,20 +91,10 @@ cv:
         end_date: 2005-09-01
         summary: Managed survey and census projects and analysed financial statements of local government institutions.
 
-      - company: University of the Free State
-        position: Part-time Lecturer, first-year Statistics (Kimberley satellite campus)
-        location: Kimberley, South Africa
-        start_date: 2007-03-01
-        end_date: 2009-06-01
-
     Awards:
       - title: NRF C3 Rating
         date: 2019-12-01
         awarder: National Research Foundation, South Africa
-
-      - title: Knowledge Share Award, SASA/NRF Academic Statistics in Crisis
-        date: 2016-01-01
-        awarder: South African Statistical Association / National Research Foundation
 
       - title: Young Statistician's Prize
         date: 2013-01-01
@@ -118,10 +104,6 @@ cv:
       - title: Dean's Medal, best MCom student
         date: 2009-01-01
         awarder: Faculty of Economic and Management Sciences, University of the Free State
-
-      - title: Santam Prize, best Actuarial Science student
-        date: 2001-01-01
-        awarder: University of the Free State
 
     Skills:
       - name: Statistical computing
