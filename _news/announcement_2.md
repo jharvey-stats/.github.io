@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented at Bayesian Inference on Stochastic Processes (BISP14) in Milan, Italy.
+Attended a workshop on Bayesian Inference on Stochastic Processes (BISP14) in Milan, Italy.
