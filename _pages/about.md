@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Professor and Head of the [Department of Statistics and Actuarial Science](https://www.sun.ac.za) at Stellenbosch University, where the department teaches postgraduate programmes in Mathematical and Applied Statistics, Actuarial Science, Financial Risk Management, and Data Science. I hold a PhD in Mathematical Statistics from the University of the Free State (2011), and I've been rated a C3 researcher by South Africa's National Research Foundation.
+I am Professor and Head of the [Department of Statistics and Actuarial Science](https://statistics-and-actuarial-science.sun.ac.za/) at Stellenbosch University, where the department teaches postgraduate programmes in Mathematical and Applied Statistics, Actuarial Science, Financial Risk Management, and Data Science. I hold a PhD in Mathematical Statistics from the University of the Free State (2011), and I've been rated a C3 researcher by South Africa's National Research Foundation.
 
 My own research centres on **Bayesian statistics** — non-informative priors, Bayesian machine learning, and variational Bayes — alongside **simulation methods**, **clinical trial methodology**, and industry collaboration. Before moving fully into academia, I spent several years as a biostatistician on clinical trials, and I still consult on studies today. Over my career I've published more than 45 peer-reviewed papers, mostly in biostatistics and epidemiology, and supervised numerous Honours, Masters, and PhD students.
 
