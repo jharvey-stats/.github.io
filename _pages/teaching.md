@@ -9,14 +9,14 @@ nav_order: 6
 
 ### Current
 
-- **Statistics 244** (2nd year) — Simple and multiple regression, ANOVA, and other linear models
 - **Stochastic Simulation** (Honours: Actuarial Science, Mathematical Statistics, Financial Risk Management) — R programming, Monte Carlo integration, random variable generation, variance reduction, MCMC
-- **Actuarial Science 311: Statistical Methods** (Honours) — game theory, statistical decision theory, empirical Bayes credibility theory, loss distributions, reinsurance, risk models, run-off triangles, ruin theory, GLMs, copulas
 - **Mathematical Statistics 344** (2nd semester) — stochastic processes, including Markov chains, Poisson processes, and random walks
 - **Bayesian Machine Learning** (postgraduate) — Bayesian methodology combined with machine learning
 
 ### Previously
 
+- Actuarial Science 311: Statistical Methods — game theory, statistical decision theory, empirical Bayes credibility theory, loss distributions, reinsurance, risk models, run-off triangles, ruin theory, GLMs, copulas
+- Statistics 244 (2nd year) — Simple and multiple regression, ANOVA, and other linear models
 - Mathematical Statistics II
 - Statistics 224 (developed the course; R programming, matrix algebra, distribution theory, transformations, and optimization for statistics students)
 - Biometry II
