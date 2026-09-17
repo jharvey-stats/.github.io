@@ -1,0 +1,135 @@
+cv:
+  name: Justin Harvey
+  label: Professor & Head of Department
+  email: jharvey@sun.ac.za
+  location: Stellenbosch, South Africa
+  image: ""
+  summary: >
+    Professor and Head of the Department of Statistics and Actuarial Science at Stellenbosch University. PhD in Mathematical Statistics (2011). NRF C3-rated researcher working on Bayesian statistics, simulation, and clinical trial methodology, with a career background in biostatistics consulting.
+
+  social_networks: []
+
+  sections:
+    Education:
+      - institution: University of the Free State
+        location: Bloemfontein, South Africa
+        area: Mathematical Statistics
+        studyType: PhD
+        start_date: 2008
+        end_date: 2011
+        highlights:
+          - 'Thesis: "Bayesian inference for the Lognormal Distribution" (supervisor: Prof. A.J. van der Merwe)'
+
+      - institution: University of the Free State
+        location: Bloemfontein, South Africa
+        area: Mathematical Statistics
+        studyType: MCom
+        start_date: 2007
+        end_date: 2008
+        highlights:
+          - Awarded cum laude; Dean's Medal for best MCom student
+
+      - institution: University of the Free State
+        location: Bloemfontein, South Africa
+        area: Mathematical Statistics (Honours)
+        studyType: BCom Honours
+        start_date: 2006
+        end_date: 2007
+        highlights:
+          - Awarded cum laude
+
+      - institution: University of the Free State
+        location: Bloemfontein, South Africa
+        area: Actuarial Science
+        studyType: BCom
+        start_date: 2000
+        end_date: 2003
+        highlights:
+          - Awarded cum laude, with six Royal Institute of Actuaries 100-series subject exemptions
+
+    Experience:
+      - company: Department of Statistics and Actuarial Science, Stellenbosch University
+        position: Head of Department
+        location: Stellenbosch, South Africa
+        start_date: 2023-01-01
+        end_date: present
+        summary: Financial, operational, strategic, and HR management of a department of 35 academic staff, spanning Statistics and Mathematical Statistics, Actuarial Science, Financial Risk Management, and Data Science programmes.
+
+      - company: Department of Statistics and Actuarial Science, Stellenbosch University
+        position: Associate Professor
+        location: Stellenbosch, South Africa
+        start_date: 2022-01-01
+        end_date: present
+        highlights:
+          - Lecturing Statistics 244, Stochastic Simulation (Honours), and Actuarial Science 311
+          - Developed two Data Science curriculum courses (Optimization & Classification; Bayesian Machine Learning)
+          - Co-supervising a current PhD student; supervising Honours and Masters projects
+
+      - company: Department of Statistics and Actuarial Science, Stellenbosch University
+        position: Senior Lecturer
+        location: Stellenbosch, South Africa
+        start_date: 2015-01-01
+        end_date: 2021-12-31
+        highlights:
+          - Lectured Mathematical Statistics II, Statistics 224/244, Stochastic Simulation, Actuarial Science 311, and Bayesian Machine Learning
+          - Led Data Science curriculum development (Data Science 241; Bayesian Machine Learning 441)
+
+      - company: Centre for Statistical Consultation, Stellenbosch University
+        position: Head Statistician
+        location: Stellenbosch, South Africa
+        start_date: 2009-07-01
+        end_date: 2014-12-31
+        summary: Statistical consulting on more than 500 research projects, primarily with the Faculty of Medicine and Health Sciences (study design, sample size, analysis, and writing up of results); ad hoc lecturer in biostatistics for the postgraduate Clinical Epidemiology programme; advisory member of the Tygerberg Medical Ethics Committee.
+
+      - company: Quintiles
+        position: Biostatistician
+        location: South Africa
+        start_date: 2005-10-01
+        end_date: 2007-03-01
+        summary: Biostatistician on multinational Phase III clinical trials — protocol and SAP design, DSMB support, SAS programming of TLFs, and statistical sections of clinical study reports. Lead or contributing statistician on 12 trials across therapeutic areas including malaria, Parkinson's disease, and diabetes.
+
+      - company: Statistics South Africa
+        position: Financial and Economic Statistical Coordinator
+        location: South Africa
+        start_date: 2005-01-01
+        end_date: 2005-09-01
+        summary: Managed survey and census projects and analysed financial statements of local government institutions.
+
+      - company: University of the Free State
+        position: Part-time Lecturer, first-year Statistics (Kimberley satellite campus)
+        location: Kimberley, South Africa
+        start_date: 2007-03-01
+        end_date: 2009-06-01
+
+    Awards:
+      - title: NRF C3 Rating
+        date: 2019-12-01
+        awarder: National Research Foundation, South Africa
+
+      - title: Knowledge Share Award, SASA/NRF Academic Statistics in Crisis
+        date: 2016-01-01
+        awarder: South African Statistical Association / National Research Foundation
+
+      - title: Young Statistician's Prize
+        date: 2013-01-01
+        awarder: Statistics South Africa (SASA)
+        summary: Included a funded trip to present at the ISI World Statistical Congress in Hong Kong.
+
+      - title: Dean's Medal, best MCom student
+        date: 2009-01-01
+        awarder: Faculty of Economic and Management Sciences, University of the Free State
+
+      - title: Santam Prize, best Actuarial Science student
+        date: 2001-01-01
+        awarder: University of the Free State
+
+    Skills:
+      - name: Statistical computing
+        keywords: "R, SAS, Python, MATLAB, Stata, SPSS, Statistica"
+
+      - name: Research areas
+        keywords: "Bayesian statistics, machine learning, simulation, clinical trials & biostatistics, industry collaboration"
+
+    Interests:
+      - name: Current research interests
+        keywords: "Non-informative priors, Bayesian machine learning & variational Bayes, clinical trial methodology, simulation methods, industry collaboration"
