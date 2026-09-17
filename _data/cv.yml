@@ -2,7 +2,7 @@ cv:
   name: Justin Harvey
   label: Professor & Head of Department
   email: jharvey@sun.ac.za
-  location: Stellenbosch, South Africa
+  location: Stellenbosch, RSA
   image: ""
   summary: >
     Professor and Head of the Department of Statistics and Actuarial Science at Stellenbosch University. PhD in Mathematical Statistics (2011). NRF C3-rated researcher working on Bayesian statistics, simulation, and clinical trial methodology, with a career background in biostatistics consulting.
@@ -16,7 +16,7 @@ cv:
   sections:
     Education:
       - institution: University of the Free State
-        location: Bloemfontein, South Africa
+        location: Bloemfontein, RSA
         area: Mathematical Statistics
         studyType: PhD
         start_date: 2008
@@ -25,7 +25,7 @@ cv:
           - 'Thesis: "Bayesian inference for the Lognormal Distribution" (supervisor: Prof. A.J. van der Merwe)'
 
       - institution: University of the Free State
-        location: Bloemfontein, South Africa
+        location: Bloemfontein, RSA
         area: Mathematical Statistics
         studyType: MCom
         start_date: 2007
@@ -34,14 +34,14 @@ cv:
           - Dean's Medal for best MCom student
 
       - institution: University of the Free State
-        location: Bloemfontein, South Africa
+        location: Bloemfontein, RSA
         area: Mathematical Statistics (Honours)
         studyType: BCom Honours
         start_date: 2006
         end_date: 2007
 
       - institution: University of the Free State
-        location: Bloemfontein, South Africa
+        location: Bloemfontein, RSA
         area: Actuarial Science
         studyType: BCom
         start_date: 2000
